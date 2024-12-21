@@ -1,7 +1,7 @@
 # Aetheric
 
 <div align="center">
-  <a href="https://aetheric.fun/">
+  <a href="https://aether-lib.tech/">
     <img src="https://pbs.twimg.com/profile_images/1870086508444602368/o5DlhMTw_400x400.png" style="margin: 15px; max-width: 300px" width="50%" alt="Logo">
   </a>
 </div>
@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-    <a href="https://x.com/Aethericdotfun" target="_blank">Aetheric on X</a>
+    <a href="https://x.com/aethericfun" target="_blank">Aetheric on X</a>
     <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-    <a href="https://aetheric.fun/">Official Website</a>
+    <a href="https://aether-lib.tech/">Official Website</a>
 </p>
 
 ---
@@ -116,8 +116,8 @@ for track in trending_tracks:
 ---
 
 ## 🌐 Connect with Us
-- Follow us on [X](https://x.com/Aethericdotfun)
-- Visit our [Website](https://aetheric.fun/)
+- Follow us on [X](https://x.com/aethericfun)
+- Visit our [Website](https://aether-lib.tech/)
 
 ---
 
