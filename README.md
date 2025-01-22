@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-    <a href="https://x.com/aethericfun" target="_blank">Aetheric on X</a>
+    <a href="https://x.com/aethericlibai" target="_blank">Aetheric on X</a>
     <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
     <a href="https://aether-lib.tech/">Official Website</a>
 </p>
@@ -116,7 +116,7 @@ for track in trending_tracks:
 ---
 
 ## 🌐 Connect with Us
-- Follow us on [X](https://x.com/aethericfun)
+- Follow us on [X](https://x.com/aethericlibai)
 - Visit our [Website](https://aether-lib.tech/)
 
 ---
